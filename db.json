@@ -28,35 +28,5 @@
         "name": "Chelsey Dietrich",
         "age": 32,
         "sex": "F"
-    },
-    {
-        "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "age": 26,
-        "sex": "M"
-    },
-    {
-        "id": 7,
-        "name": "Kurtis Weissnat",
-        "age": 52,
-        "sex": "F"
-    },
-    {
-        "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "age": 32,
-        "sex": "M"
-    },
-    {
-        "id": 9,
-        "name": "Glenna Reichert",
-        "age": 32,
-        "sex": "F"
-    },
-    {
-        "id": 10,
-        "name": "Clementina DuBuque",
-        "age": 32,
-        "sex": "M"
     }
 ]
